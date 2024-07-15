@@ -1,6 +1,6 @@
 adguard/adguardhome:latest
 2fauth/2fauth
-home-assistant
+homeasstant/home-assistant
 nextcloud
 linuxserver/jellyfin
 wisdomsky/cloudflared-web
