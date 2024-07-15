@@ -1,4 +1,4 @@
-adguard/adguardhome:latest
+adguard/adguardhome
 2fauth/2fauth
 homeasstant/home-assistant
 nextcloud
