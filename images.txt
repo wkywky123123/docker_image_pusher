@@ -6,3 +6,4 @@ nextcloud
 linuxserver/jellyfin
 wisdomsky/cloudflared-web
 linuxserver/syncthing
+yidadaa/chatgpt-next-web
