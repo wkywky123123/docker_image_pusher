@@ -1,3 +1,4 @@
+joinsunsoft/docker.ui
 portainer/portainer-ce
 adguard/adguardhome
 2fauth/2fauth
